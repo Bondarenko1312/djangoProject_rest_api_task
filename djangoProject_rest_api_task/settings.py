@@ -39,9 +39,10 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'corsheaders',
     'restaurant.apps.RestaurantConfig',
+    'employee.apps.EmployeeConfig',
+    'user.apps.UserConfig',
 
 ]
-
 
 CORS_ORIGIN_ALLOW_ALL = True
 
