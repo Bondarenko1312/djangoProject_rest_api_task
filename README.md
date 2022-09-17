@@ -8,8 +8,6 @@ API FUNCTIONALITY:
 
 
 
-
-
 REQUIREMENTS:
 - Only Back End (no needs to add UI);
 - REST architecture;
@@ -18,3 +16,8 @@ PyTests;
 - Added at least a few different tests;
 - README.md with a description of how to run the system;
 - Will be a + to add flake8 or smth similar
+
+How tu run:
+ -docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+ -docker compose build
+
